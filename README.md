@@ -3,7 +3,7 @@
 
 - :school: I’m currently a undergraduate student of Ciences and technologhy at the Universidade Federal do Rio Grande do Norte (UFRN) :muscle:
 - I don't got a job yet :grimacing: ...
-- :running: I want to be a great back-end dev :grin: :computer: 
+- :running: I want to be a great web dev :grin: :computer: 
 - 🤔 I’m looking for help with how to be a good dev :v: 
 - :email::email::email: Contact me at pedrolerybr@gmail.com :email::email::email:
 
