@@ -1,9 +1,7 @@
 ### Hello friend! :smile: :wave:
 ## My name is Pedro Leandro
 
-- :school: I’m currently a undergraduate student of Ciences and technologhy at the Universidade Federal do Rio Grande do Norte (UFRN) :muscle:
-- I don't got a job yet :grimacing: ...
-- 🤔 I’m looking for help with how to be a good professional
+- :school: I’m a graduate in Ciences and technologhy at Universidade Federal do Rio Grande do Norte (UFRN). Currently, i'm undergraduate student of Computer Engineering also at UFRN. :muscle:
 - :email::email::email: Contact me at pedrolerybr@gmail.com :email::email::email:
 
 
